@@ -134,9 +134,13 @@
     <Content Include="Content\css\business-casual.css" />
     <Content Include="Content\css\business-casual.min.css" />
     <Content Include="Content\css\freelancer.css" />
+    <Content Include="Content\css\style.css.css" />
     <Content Include="Content\css\freelancer.min.css" />
     <Content Include="Content\img\about.jpg" />
     <Content Include="Content\img\avataaars.svg" />
+    <Content Include="Content\img\background1.jpg" />
+    <Content Include="Content\img\background2.jpg" />
+    <Content Include="Content\img\background3.jpg" />
     <Content Include="Content\img\bg.jpg" />
     <Content Include="Content\img\intro.jpg" />
     <Content Include="Content\img\portfolio\cabin.png" />
